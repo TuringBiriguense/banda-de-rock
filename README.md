@@ -1,2 +1,2 @@
 # banda-de-rock
-descrição
+Projeto feito na aula do sor cassio
