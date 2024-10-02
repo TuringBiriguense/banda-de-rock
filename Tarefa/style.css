@@ -1,14 +1,22 @@
-* {
-    padding: 0;
+*{
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    line-height: 1.8;
 }
-
-.container {
+.containerpai {
     display: flex;
     width: 100%;
     height: 100vh;
+    background-color: #000000;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerfilho {
+    display: flex;
+    width: 95%;
+    height: 95vh;
     background-color: #931de2;
     flex-direction: column;
     justify-content: center;
