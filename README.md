@@ -1,2 +1,3 @@
 # banda-de-rock
-Trabalho de desenlvovimento web
+Repositorio do que fiz em desenvolvimento web
+
